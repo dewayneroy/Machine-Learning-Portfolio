@@ -3,6 +3,11 @@ Repository containing portfolio of machine learning projects completed by me. Fo
 ## Contents
 * **Machine Learning**
 
+* **Computer Vision | Object Detection**
 
-* **Natural Language Processing**  
-  * [Predicting Restaurant Reviews](https://github.com/dewayneroy/natural-language-processing): A model to predict if a restaurant review is positive or negative. 
+* **Speech Recognition | Speech Synthesis**
+
+* **Natural Language Processing(NLP) | Natural Language Understanding(NLU)**  
+  
+* **Micro Projects:**
+  * [Predicting Restaurant Reviews](https://github.com/dewayneroy/natural-language-processing): A model to predict if a restaurant review is positive or negative.
