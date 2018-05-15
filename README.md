@@ -4,7 +4,7 @@ Repository containing portfolio of machine learning projects completed by me. Fo
 * **Machine Learning**
 
 * **Computer Vision | Object Detection**
-  * [Real-Time Facial Emotion Recognition](https://dewayneroy.github.io/EmotionRecognition/)
+  * [Real-Time Facial Emotion Recognition](https://dewayneroy.github.io/EmotionRecognition/): A facial expression classification system that recognizes 7 basic human emotions (happy, sad, suprised, neutral, fearful, disgusted, angry).
 
 * **Speech Recognition | Speech Synthesis**
 
@@ -14,4 +14,4 @@ Repository containing portfolio of machine learning projects completed by me. Fo
   * [Predicting Restaurant Reviews](https://github.com/dewayneroy/natural-language-processing): A model to predict if a restaurant review is positive or negative.
 
 ### Contact
- :wave: If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot me an email at [dewayneroyj@gmail.com](dewayneroyj@gmail.com). 
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot me an email at [dewayneroyj@gmail.com](dewayneroyj@gmail.com). 
