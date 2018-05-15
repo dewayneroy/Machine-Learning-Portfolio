@@ -4,6 +4,7 @@ Repository containing portfolio of machine learning projects completed by me. Fo
 * **Machine Learning**
 
 * **Computer Vision | Object Detection**
+  * [Real-Time Facial Emotion Recognition](https://dewayneroy.github.io/EmotionRecognition/)
 
 * **Speech Recognition | Speech Synthesis**
 
