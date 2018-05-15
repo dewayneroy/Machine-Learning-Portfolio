@@ -12,7 +12,8 @@ Repository containing portfolio of machine learning projects completed by me.
   
 * **Micro-Projects:**
   * [Predicting Restaurant Reviews](https://github.com/dewayneroy/natural-language-processing) - A model to predict if a restaurant review is positive or negative.
-  * [Does more years of experience equal a higher salary?](https://github.com/dewayneroy/linear-regression) - I built a simple linear regression model to find out. 
+  * [Does more years of experience equal a higher salary?](https://github.com/dewayneroy/linear-regression) - I built a simple linear regression model to find out.
+  * [Who is most likely to leave your organization and when?](https://github.com/dewayneroy/ANN) - Job demographic segmentation model that predicts what employees are at the highest risk of leaving. 
 
 ### Contact
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot me an email at [dewayneroyj@gmail.com](dewayneroyj@gmail.com). 
