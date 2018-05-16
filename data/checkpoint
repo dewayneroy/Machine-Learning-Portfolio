@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/dewayneroy/emotion-recognition-neural-networks/data/Gudi_model_100_epochs_20000_faces"
+all_model_checkpoint_paths: "/home/dewayneroy/emotion-recognition-neural-networks/data/Gudi_model_100_epochs_20000_faces"
