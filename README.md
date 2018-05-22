@@ -4,7 +4,7 @@ Repository containing portfolio of machine learning projects completed by me.
 * **Machine Learning**
 
 * **Computer Vision | Object Detection**
-  * [Real-Time Facial Recignition](https://dewayneroy.github.io/FacialRecognition/) - Simple facial and eye recognition using OpenCV.
+  * [Real-Time Facial Recignition](https://dewayneroy.github.io/FacialRecognition/) - Simple face and eye detection using OpenCV.
   * [Real-Time Facial Emotion Recognition](https://dewayneroy.github.io/EmotionRecognition/) - A facial expression classification system that recognizes 7 basic human emotions (happy, sad, suprised, neutral, fearful, disgusted, angry).
 
 * **Speech Recognition | Speech Synthesis**
